@@ -28,6 +28,18 @@ width: 320px;
   
 }
 
+h1{
+
+text-align: center;
+
+}
+.under{
+
+    text-align: center;
+    color: #5b67b3;
+
+}
+
 .info {
   
 width: 620px;
@@ -36,7 +48,7 @@ margin: 40px auto 0 auto;
 }
 
 .button {
-    
+
     text-align: center;
     margin-top: 35px;
 
