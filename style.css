@@ -16,23 +16,21 @@ padding: 50px;
 
 }
 
-img{
+.photo {
+  
+text-align: center;
+  
+}
 
-display: block;
-margin: auto;
+.photo img {
+  
 width: 320px;
-
+  
 }
 
-h1{
-
-text-align: center;
-
-}
-
-.under{
-
-color: #717bbd;
-text-align: center;
-
+.info {
+  
+width: 620px;
+margin: 40px auto 0 auto;
+  
 }
